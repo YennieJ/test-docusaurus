@@ -1,0 +1,16 @@
+{
+  "aboutSidebar": [
+    {
+      "type": "category",
+      "label": "Frontend",
+      "items": ["frontend/OSS"]
+    }
+  ],
+  "yenSidebar": [
+    {
+      "type": "category",
+      "label": "Yen",
+      "items": ["yen/test"]
+    }
+  ]
+}

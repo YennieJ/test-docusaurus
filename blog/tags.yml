@@ -1,0 +1,14 @@
+pharmsoft:
+  label: Pharmsoft
+  permalink: /pharmsoft
+  description: GxP 영역의 품질IT시스템을 개발·구축·지원하는 IT회사입니다
+
+pharmsolution:
+  label: Pharmsolution
+  permalink: /pharmsolution
+  description: LIMS,EDMS,QMS,WFMS,PQRS,ELN,LMS,LAS을 지원합니다
+
+flogram:
+  label: Flogram
+  permalink: /flogram
+  description: 제 약 / 바이오 신제품 개 발 협업솔루션입니다

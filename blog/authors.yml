@@ -1,0 +1,29 @@
+# yangshun:
+#   name: Yangshun Tay
+#   title: Ex-Meta Staff Engineer, Co-founder GreatFrontEnd
+#   url: https://linkedin.com/in/yangshun
+#   image_url: https://github.com/yangshun.png
+#   page: true
+#   socials:
+#     x: yangshunz
+#     linkedin: yangshun
+#     github: yangshun
+#     newsletter: https://www.greatfrontend.com
+
+최석중:
+  name: 최석중
+  title: 대표
+  image_url: /img/CEO_image.jpg
+  page: true
+
+김동완:
+  name: 김동완
+  title: 본부장
+  image_url: /img/Head_image.jpg
+  page: true
+
+이정훈:
+  name: 이정훈
+  title: 이사
+  image_url: /img/Director_image.jpg
+  page: true
